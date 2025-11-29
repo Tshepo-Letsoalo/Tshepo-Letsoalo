@@ -1,6 +1,6 @@
 # Hi there! I am Tshepo Letsoalo 👋
 
-🎓 **BSc in Computer Science at UoPeople** | Cybersecurity & UX Design Certified
+🎓 **BSc in Computer Science at University Of the People** | Cybersecurity & UX Design Certified
 
 I am a passionate and driven developer focused on blending foundational computer science principles (from CS50) with practical, in-demand skills in Cybersecurity and User Experience Design. My goal is to develop robust, secure, and user-friendly software solutions.
 
