@@ -1,4 +1,4 @@
-# Hi there! I am Tshepo Letsoalo 👋
+# Hi there! My name is Tshepo Letsoalo 👋
 
 🎓 **BSc in Computer Science at University Of the People** | Cybersecurity & UX Design Certified
 
