@@ -35,7 +35,7 @@ I have successfully completed training from leading institutions and tech compan
 ## 📫 Let's Connect
 
 * **LinkedIn:** linkedin.com/in/tshepo-letsoalo-45bb67377
-* **Email:** tshepo.letsoalo@icloud.com
+* **Email:** tshepo.eugene.letsoalo@gmail.com
 
 ---
 <p align="center">
