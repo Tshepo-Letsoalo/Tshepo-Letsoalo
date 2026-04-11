@@ -1,6 +1,8 @@
 # Hello! My name is Tshepo Letsoalo 👋
 
-🎓 **BSc in Computer Science at University Of the People** | Cybersecurity & UX Design Certified
+🎓 **BSc in Computer Science at University Of the People** | Cybersecurity & UX Design Certified  
+🎓 GitHub Education Verified Student (since April 2026)  
+Currently completing: GitHub Deep Dive Learning Path (Codespaces + GitHub Flow)
 
 I am a passionate and driven developer focused on blending foundational Computer Science principles (from CS50) with practical, in-demand skills in Cybersecurity and User Experience Design. My goal is to develop robust, secure, and user-friendly software solutions.
 
@@ -18,24 +20,24 @@ I am a passionate and driven developer focused on blending foundational Computer
 
 I have successfully completed training from leading institutions and tech companies:
 
-* ✅ **CS50 (Harvard)**: Introduction to Computer Science
-* ✅ **IBM**: Cybersecurity Analyst Professional Certificate
-* ✅ **Google**: Cybersecurity Professional Certificate
-* ✅ **Google**: UX Design Professional Certificate
-* ✅ **Google**: IT Support Professional Certificate
+* ✅ **CS50 (Harvard)**: Introduction to Computer Science  
+* ✅ **IBM**: Cybersecurity Analyst Professional Certificate  
+* ✅ **Google**: Cybersecurity Professional Certificate  
+* ✅ **Google**: UX Design Professional Certificate  
+* ✅ **Google**: IT Support Professional Certificate  
 
 ---
 
 ## 🔭 Currently Focused On
 
-* Deepening my understanding of **Data Structures and Algorithms** through UoPeople coursework.
-* Building a **Flask/Python web application** that incorporates security best practices.
-* Creating **detailed case studies** to demonstrate my UX design process.
+* Deepening my understanding of **Data Structures and Algorithms** through UoPeople coursework.  
+* Building a **Flask/Python web application** that incorporates security best practices.  
+* Creating **detailed case studies** to demonstrate my UX design process.  
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** linkedin.com/in/tshepo-letsoalo-45bb67377
-* **Email:** tshepo.eugene.letsoalo@gmail.com
+* **LinkedIn:** linkedin.com/in/tshepo-letsoalo-45bb67377  
+* **Email:** tshepo.eugene.letsoalo@gmail.com  
 
 ---
 <p align="center">
