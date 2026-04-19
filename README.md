@@ -1,4 +1,4 @@
-# Hello! My name is Tshepo Letsoalo 👋
+# Hello! My name is Tshepo 👋
 
 🎓 **BSc in Computer Science at University Of the People** | Cybersecurity & UX Design Certified  
 🎓 GitHub Education Verified Student (since April 2026)  
