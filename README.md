@@ -25,6 +25,7 @@ I have successfully completed training from leading institutions and tech compan
 * ✅ **Google**: Cybersecurity Professional Certificate  
 * ✅ **Google**: UX Design Professional Certificate  
 * ✅ **Google**: IT Support Professional Certificate  
+* ✅ **Huawei ICT Academy**: Network Security Certificate
 
 ---
 
