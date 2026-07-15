@@ -1,14 +1,14 @@
 # Tshepo Eugene Letsoalo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=5000&pause=2000&color=9D28B2&center=true&vCenter=true&lines=Cybersecurity+Analyst;Software+Engineering+Student;UX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=5000&pause=2000&color=9D28B2&center=true&vCenter=true&lines=Cybersecurity+Analyst;Software+Engineering+Student;UX+Designer" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Cybersecurity" />
 </p>
 
 ---
@@ -55,13 +55,15 @@ Dedicated to architecting secure, scalable, and intuitive digital solutions. I b
 ---
 
 ## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo-Letsoalo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo-Letsoalo&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tshepo-Letsoalo&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo-Letsoalo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tshepo's Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo-Letsoalo&layout=compact&theme=radical&hide_border=true" alt="Tshepo's Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tshepo-Letsoalo&theme=radical&hide_border=true" alt="Tshepo's Streak" />
 </p>
 
 ## 📫 Let's Connect
