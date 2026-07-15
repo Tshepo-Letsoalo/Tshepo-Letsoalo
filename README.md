@@ -36,7 +36,8 @@ I have successfully completed training from leading institutions and tech compan
 * Deepening my understanding of **Data Structures and Algorithms** through UoPeople coursework.  
 * Building a **Flask/Python web application** that incorporates security best practices.  
 * Creating **detailed case studies** to demonstrate my UX design process.  
-
+* Developing mobile-first skills through the FNB App Academy (2026)
+  
 ## 📫 Let's Connect
 
 * **LinkedIn:** linkedin.com/in/tshepo-letsoalo-45bb67377  
