@@ -1,4 +1,8 @@
-# Hello! My name is Tshepo 👋
+# Tshepo E. Letsoalo
+### Aspiring Cybersecurity Analyst | IT Professional | Software Engineering Student
+
+
+Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design, continuously evolving my toolkit through industry-recognized certifications.
 
 🎓 **BSc in Computer Science at University Of the People** | Cybersecurity & UX Design Certified  
 🎓 GitHub Education Verified Student (since April 2026)  
