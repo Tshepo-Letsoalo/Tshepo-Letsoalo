@@ -1,53 +1,51 @@
 # Tshepo Eugene Letsoalo
 ### Aspiring Cybersecurity Analyst | IT Professional | Software Engineering Student
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</p>
 
-Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design, continuously evolving my toolkit through industry-recognized certifications.
-
-🎓 **BSc in Computer Science at University Of the People** | Cybersecurity & UX Design Certified  
-🎓 GitHub Education Verified Student (since April 2026)  
-Currently completing: GitHub Deep Dive Learning Path (Codespaces + GitHub Flow)
-
-I am a passionate and driven developer focused on blending foundational Computer Science principles (from CS50) with practical, in-demand skills in Cybersecurity and User Experience Design. My goal is to develop robust, secure, and user-friendly software solutions.
+Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design.
 
 ---
 
 ## 💡 Skills & Expertise
 
-| Area | Technologies & Tools |
-| :--- | :--- |
-| **Programming** | Python, C, SQL, HTML, CSS, JavaScript |
-| **Cybersecurity** | Security Analysis, Network Defense, Risk Management, SIEM Tools (e.g., Splunk) |
-| **Design & IT** | User Research, Wireframing, Prototyping (Figma), Cloud Fundamentals, Operating Systems |
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Cybersecurity & IT
+![Security Analysis](https://img.shields.io/badge/Security-231F20?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4A154B?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ## 🏆 Certifications
-
-I have successfully completed training from leading institutions, Government and tech companies:
-
-
-* ✅ **Department of Communications & Digital Technologies / Huawei**: SMME Digital Skill Transformation Training (2026)
-* ✅ **CS50 (Harvard)**: Introduction to Computer Science  
-* ✅ **IBM**: Cybersecurity Analyst Professional Certificate  
-* ✅ **Google**: Cybersecurity Professional Certificate  
-* ✅ **Google**: UX Design Professional Certificate  
-* ✅ **Google**: IT Support Professional Certificate  
-* ✅ **Huawei ICT Academy**: Network Security Certificate
+* ✅ **Huawei**: SMME Digital Skill Transformation (2026)
+* ✅ **CS50 (Harvard)**: Introduction to Computer Science
+* ✅ **IBM**: Cybersecurity Analyst Professional
+* ✅ **Google**: Cybersecurity Professional
+* ✅ **Google**: UX Design Professional
+* ✅ **Google**: IT Support Professional
+* ✅ **Huawei ICT Academy**: Network Security
 
 ---
 
-## 🔭 Currently Focused On
-
-* Deepening my understanding of **Data Structures and Algorithms** through UoPeople coursework.  
-* Building a **Flask/Python web application** that incorporates security best practices.  
-* Creating **detailed case studies** to demonstrate my UX design process.  
-* Developing mobile-first skills through the FNB App Academy (2026)
-  
-## 📫 Let's Connect
-
-* **LinkedIn:** linkedin.com/in/tshepo-letsoalo-45bb67377  
-* **Email:** tshepo.eugene.letsoalo@gmail.com  
-
----
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo-Letsoalo&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&count_private=true" alt="Tshepo-Letsoalo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo-Letsoalo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
+
+## 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/tshepo-letsoalo-45bb67377](https://www.linkedin.com/in/tshepo-letsoalo-45bb67377)
+* **Email:** tshepo.eugene.letsoalo@gmail.com
