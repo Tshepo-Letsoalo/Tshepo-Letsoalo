@@ -1,4 +1,4 @@
-# Tshepo E. Letsoalo
+# Tshepo Eugene Letsoalo
 ### Aspiring Cybersecurity Analyst | IT Professional | Software Engineering Student
 
 
