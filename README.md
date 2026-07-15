@@ -1,7 +1,7 @@
 # Tshepo Eugene Letsoalo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=9D28B2&center=true&vCenter=true&lines=Aspiring+Cybersecurity+Analyst;Software+Engineering+Student;UX+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=5000&pause=2000&color=9D28B2&center=true&vCenter=true&lines=Cybersecurity+Analyst;Software+Engineering+Student;UX+Designer" />
 </p>
 
 <p align="center">
