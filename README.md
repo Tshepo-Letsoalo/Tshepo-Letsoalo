@@ -1,5 +1,8 @@
 # Tshepo Eugene Letsoalo
-### Aspiring Cybersecurity Analyst | IT Professional | Software Engineering Student
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=9D28B2&center=true&vCenter=true&lines=Aspiring+Cybersecurity+Analyst;Software+Engineering+Student;UX+Design+Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -8,9 +11,9 @@
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
-Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design.
-
 ---
+
+Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design.
 
 ## 💡 Skills & Expertise
 
