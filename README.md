@@ -44,9 +44,14 @@ Dedicated to architecting secure, scalable, and intuitive digital solutions. I b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tshepo-Letsoalo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo-Letsoalo&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tshepo-Letsoalo&theme=radical&hide_border=true" />
 </p>
 
 ## 📫 Let's Connect
