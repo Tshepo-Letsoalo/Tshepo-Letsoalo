@@ -44,6 +44,15 @@ Dedicated to architecting secure, scalable, and intuitive digital solutions. I b
 
 ---
 
+## 🔭 Currently Focused On
+
+* Deepening my understanding of **Data Structures and Algorithms** through UoPeople coursework.
+* Building a **Flask/Python web application** that incorporates security best practices.
+* Creating **detailed case studies** to demonstrate my UX design process.
+* Developing mobile-first skills through the FNB App Academy (2026).
+
+---
+
 ## 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tshepo-Letsoalo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
