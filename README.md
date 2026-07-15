@@ -20,6 +20,8 @@ I am a passionate and driven developer focused on blending foundational Computer
 
 I have successfully completed training from leading institutions and tech companies:
 
+
+* ✅ **Department of Communications & Digital Technologies / Huawei**: SMME Digital Skill Transformation Training (2026)
 * ✅ **CS50 (Harvard)**: Introduction to Computer Science  
 * ✅ **IBM**: Cybersecurity Analyst Professional Certificate  
 * ✅ **Google**: Cybersecurity Professional Certificate  
