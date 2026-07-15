@@ -16,6 +16,15 @@
 ## 👨‍💻 About Me
 Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design, continuously evolving my toolkit through industry-recognized certifications. I am a passionate and driven developer focused on blending foundational Computer Science principles with practical, in-demand skills in Cybersecurity and User Experience Design.
 
+## 🚀 I am passionate about...
+<p align="center">
+  <a href="https://www.ibm.com/topics/cybersecurity"><img src="https://img.shields.io/badge/Cybersecurity-1f2021?style=for-the-badge&logo=guardicore&logoColor=fff" alt="Cybersecurity" /></a>
+  <a href="https://en.wikipedia.org/wiki/Software_engineering"><img src="https://img.shields.io/badge/Software%20Engineering-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Software Engineering" /></a>
+  <a href="https://www.interaction-design.org/literature/topics/ux-design"><img src="https://img.shields.io/badge/User%20Experience%20Design-e62b6e?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="UX Design" /></a>
+</p>
+
+---
+
 ## 💡 Skills & Expertise
 
 ### Programming
