@@ -13,7 +13,8 @@
 
 ---
 
-Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design.
+## 👨‍💻 About Me
+Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design, continuously evolving my toolkit through industry-recognized certifications. I am a passionate and driven developer focused on blending foundational Computer Science principles with practical, in-demand skills in Cybersecurity and User Experience Design.
 
 ## 💡 Skills & Expertise
 
