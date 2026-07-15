@@ -1,4 +1,4 @@
-                       # Tshepo Eugene Letsoalo
+# Tshepo Eugene Letsoalo
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=5000&pause=2000&color=9D28B2&center=true&vCenter=true&lines=Cybersecurity+Analyst;Software+Engineering+Student;UX+Designer" alt="Typing animation" />
