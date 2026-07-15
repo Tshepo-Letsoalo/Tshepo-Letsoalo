@@ -54,18 +54,6 @@ Dedicated to architecting secure, scalable, and intuitive digital solutions. I b
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo-Letsoalo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tshepo's Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo-Letsoalo&layout=compact&theme=radical&hide_border=true" alt="Tshepo's Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tshepo-Letsoalo&theme=radical&hide_border=true" alt="Tshepo's Streak" />
-</p>
-
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/tshepo-letsoalo-45bb67377](https://www.linkedin.com/in/tshepo-letsoalo-45bb67377)
 * **Email:** tshepo.eugene.letsoalo@gmail.com
