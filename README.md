@@ -22,7 +22,7 @@ I am a passionate and driven developer focused on blending foundational Computer
 
 ## 🏆 Certifications
 
-I have successfully completed training from leading institutions and tech companies:
+I have successfully completed training from leading institutions, Government and tech companies:
 
 
 * ✅ **Department of Communications & Digital Technologies / Huawei**: SMME Digital Skill Transformation Training (2026)
