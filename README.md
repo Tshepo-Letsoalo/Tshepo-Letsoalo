@@ -44,7 +44,7 @@ Dedicated to architecting secure, scalable, and intuitive digital solutions. I b
 ---
 
 ## 🏆 Certifications
-* ✅ **Huawei**: SMME Digital Skill Transformation (2026)
+* ✅ **Huawei**: SMME Digital Skills Transformation (2026)
 * ✅ **CS50 (Harvard)**: Introduction to Computer Science
 * ✅ **IBM**: Cybersecurity Analyst Professional
 * ✅ **Google**: Cybersecurity Professional
