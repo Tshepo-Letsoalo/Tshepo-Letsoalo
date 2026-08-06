@@ -57,10 +57,11 @@ I enjoy solving problems that make learning and working online easier. I believe
 
 ## 🔭 Currently Focused On
 
-* Deepening my understanding of **Data Structures and Algorithms** through UoPeople coursework.
-* Building a **Flask/Python web application** that incorporates security best practices.
-* Creating **detailed case studies** to demonstrate my UX design process.
-* Developing mobile-first skills through the FNB App Academy (2026).
+* Learning more about **Data Structures and Algorithms** through UoPeople coursework.  
+* Building a **Flask/Python web app** with security best practices.  
+* Creating **case studies** to show my UX design process.  
+* Improving mobile-first skills through the **FNB App Academy (2026)**.  
+* Taking part in the **Geekulcha Annual Hackathon 2026** to grow teamwork and problem solving skills.  
 
 ---
 
