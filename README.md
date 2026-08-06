@@ -14,7 +14,8 @@
 ---
 
 ## 👨‍💻 About Me
-Dedicated to architecting secure, scalable, and intuitive digital solutions. I bridge the gap between robust backend infrastructure and user-centric design, continuously evolving my toolkit through industry-recognized certifications. I am a passionate and driven developer focused on blending foundational Computer Science principles with practical, in-demand skills in Cybersecurity and User Experience Design.
+I build safe and easy to-use digital tools. I like mixing strong backend systems with simple designs that people enjoy using. I keep learning new skills through trusted courses and certificates. I am focused on using Computer Science ideas in real projects about Cybersecurity and User Experience Design.
+I enjoy solving problems that make learning and working online easier. I believe good design should help people, not confuse them. I am always improving my coding and design skills to make better apps. My goal is to build tools that are useful, safe, and easy for everyone to use.
 
 ##  I am passionate about...
 <p align="center">
