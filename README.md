@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-I build safe and easy to use digital tools. I like mixing strong backend systems with simple designs that people enjoy using. I keep learning new skills through trusted courses and certificates. I am focused on using Computer Science ideas in real projects about Cybersecurity and User Experience Design.
+I build safe and easy to use digital tools. I like mixing strong backend systems with simple designs that people enjoy using. I keep learning new skills through trusted courses and certificates. Focused on using Computer Science ideas in real projects about Cybersecurity and User Experience Design.
 I enjoy solving problems that make learning and working online easier. I believe good design should help people, not confuse them. I am always improving my coding and design skills to make better apps. My goal is to build tools that are useful, safe, and easy for everyone to use.
 
 ##  I am passionate about...
